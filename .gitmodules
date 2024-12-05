@@ -1,6 +1,7 @@
 [submodule "Coffee-shop-chain-management-backend"]
 	path = Coffee-shop-chain-management-backend
 	url = https://github.com/nhp1807/Coffee-shop-chain-management-backend
-[submodule "Coffee-shop-chain-management-FE"]
-	path = Coffee-shop-chain-management-FE
-	url = https://github.com/ndtwork/Coffee-shop-chain-management-FE
+
+[submodule "Coffee-shop-chain-management-frontend"]
+	path = Coffee-shop-chain-management-frontend
+	url = https://github.com/nhp1807/Coffee-shop-chain-management-frontend.git
